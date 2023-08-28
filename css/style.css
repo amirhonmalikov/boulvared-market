@@ -90,7 +90,6 @@ header,
 .info .container div{
     display: flex;
     align-items: center;
-    flex-wrap: wrap;
     justify-content:center;
 }
 .info_text-1{
@@ -150,7 +149,6 @@ header,
     text-align: left;
     max-width: 333px;
     width: 100%;
-    margin-left: 11px;
 }
 .product{
     padding-bottom: 55px;
